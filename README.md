@@ -35,7 +35,7 @@ This is a simple social link profile page design using simple html and CSS.
 ![mobile view](./assets/screenshots/Screen%20Shot%202026-10-18%20at%2015.07.49.png)
 ### Links
 
-- Solution URL: [Social link profile](https://your-solution-url.com)
+- Solution URL: [Social link profile](https://arkharios.github.io/social-links-profile/)
 
 ## My process
 
